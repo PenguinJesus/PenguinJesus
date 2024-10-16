@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on building a React Native application for habit tracking.<br>🌱 I’m currently learning about deploying applications on GCP.<br>💬 Ask me about anything and everything :)<br>
 
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeffrey-wong-477585b7/) 
